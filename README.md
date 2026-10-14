@@ -8,22 +8,22 @@ The project integrates Python, PostgreSQL, Streamlit, and Power BI to provide pr
 ## Dashboard Screenshots
 
 ### 1. Home
-![Home Dashboard](images/01-home.png)
+![Home Dashboard](01-home.png)
 
 ### 2. Patient Overview
-![Patient Overview Dashboard](images/02-patient-overview.png)
+![Patient Overview Dashboard](patient-overview.png)
 
 ### 3. Risk Analysis
-![Risk Prediction Analysis](images/03-risk-analysis.png)
+![Risk Prediction Analysis](risk-analysis.png)
 
 ### 4. Clinical Insights
-![Clinical Insights Dashboard](images/04-clinical-insights.png)
+![Clinical Insights Dashboard](clinical-insights.png)
 
 ### 5. Model Performance
-![Model Performance Dashboard](images/05-model-performance.png)
+![Model Performance Dashboard](model-performance.png)
 
 ### 6. AI Explainability
-![AI Explainability Dashboard](images/06-ai-explainability.png)
+![AI Explainability Dashboard](ai-explainability.png)
 
 ## Features
 - Heart Disease Risk Prediction
