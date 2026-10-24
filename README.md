@@ -104,4 +104,4 @@ The chatbot asks 13 questions one by one — age, sex, chest pain type, resting 
 
 The project predicts heart disease risk and provides interactive analytics through Power BI and a Streamlit-based healthcare assistant.
 
-The Model Performance dashboard shows an accuracy of **96.70%**.
+The Model Performance dashboard shows an accuracy of **83.61%**.
